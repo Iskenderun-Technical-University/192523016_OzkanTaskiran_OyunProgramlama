@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - durma
+  - zemin
+  - oyuncu
+  - top
+  - itme
+  - itmetetik
+  - buyuktop
+  - sepetsayi
+  - solkapi
+  - "sa\u011Fkapi"
+  - Damaging
+  - tutucu
+  - sonraki
+  - Undefined
+  - silindir
+  - durma2
+  - itmetetik2
+  - skor2_txt
+  - zemin2
+  - level21
+  - "d\xFC\u015Fenb\xFCy\xFCktop"
+  - pervanetetik
+  - skor2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - zemin
+  - oyuncu
+  - top
+  - itme
+  - kutu
+  - tutucu
+  - durma
+  - pervane
+  - oyuncuper
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
